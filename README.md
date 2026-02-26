@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxc88kr)](https://solved.ac/zxc88kr/)
 
 ## Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxc88kr&layout=compact&theme=onedark)](https://github.com/zxc88kr?tab=repositories)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zxc88kr&layout=compact&theme=onedark)](https://github.com/zxc88kr?tab=repositories)
 
 ## Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
