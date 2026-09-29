@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&vCenter=true&width=460&lines=Backend+Developer;Java+%C2%B7+Spring+Boot" />
 
 ## Stats
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=zxc88kr&show_icons=true&theme=onedark&hide_rank=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zxc88kr&layout=compact&theme=onedark&hide=jupyter%20notebook" />
+<img src="https://github-stats-extended.vercel.app/api?username=zxc88kr&show_icons=true&theme=onedark&hide_rank=true&line_height=20" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zxc88kr&layout=compact&theme=onedark&hide=jupyter%20notebook" />
 
 ## Algorithm
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=zxc88kr)](https://solved.ac/zxc88kr/)
